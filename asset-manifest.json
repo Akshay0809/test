@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.c140ad1c.css",
+    "main.js": "/test/static/js/main.908c77e6.js",
+    "static/js/787.554d28d6.chunk.js": "/test/static/js/787.554d28d6.chunk.js",
+    "static/media/tether.webp": "/test/static/media/tether.ddbf891d934c0bba4c2d.webp",
+    "static/media/heroimage1.webp": "/test/static/media/heroimage1.c9d492fc2fbb46a9eedd.webp",
+    "static/media/bitcoin-sign.png": "/test/static/media/bitcoin-sign.9c219d14f9d5a06b0904.png",
+    "static/media/trading3.jpg": "/test/static/media/trading3.855abff7ef82a484dcbd.jpg",
+    "static/media/t2.jpg": "/test/static/media/t2.71a266f6ac49c479eb49.jpg",
+    "static/media/image(5).jpg": "/test/static/media/image(5).7e2ddff7df19a5ec1322.jpg",
+    "static/media/trading1.jpg": "/test/static/media/trading1.b014e72ec919cf033643.jpg",
+    "static/media/kucoinlogo.png": "/test/static/media/kucoinlogo.47de2029ef2051e832d4.png",
+    "static/media/t3.jpg": "/test/static/media/t3.cae31695c1a09c2eadc4.jpg",
+    "static/media/trading2.webp": "/test/static/media/trading2.a0dad69c04951bff410b.webp",
+    "static/media/BinanceLogo.png": "/test/static/media/BinanceLogo.92643887cb735977d3b9.png",
+    "static/media/t1.jpg": "/test/static/media/t1.483c1b54b0ddf83404b3.jpg",
+    "static/media/t4.jpg": "/test/static/media/t4.c1194f89067df28bd935.jpg",
+    "static/media/logoss.png": "/test/static/media/logoss.4dcfd7b897999c226e4a.png",
+    "static/media/tick1.jpg": "/test/static/media/tick1.63e78f5f201c03dedc24.jpg",
+    "static/media/okxlogo.webp": "/test/static/media/okxlogo.a2e9132f22a5a17bf76c.webp",
+    "static/media/tel.png": "/test/static/media/tel.718065b5a3506627fc4b.png",
+    "index.html": "/test/index.html",
+    "main.c140ad1c.css.map": "/test/static/css/main.c140ad1c.css.map",
+    "main.908c77e6.js.map": "/test/static/js/main.908c77e6.js.map",
+    "787.554d28d6.chunk.js.map": "/test/static/js/787.554d28d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c140ad1c.css",
+    "static/js/main.908c77e6.js"
+  ]
+}
